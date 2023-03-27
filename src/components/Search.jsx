@@ -35,7 +35,6 @@ const FormStyle = styled.form`
         font-size: 1rem;
         color: white;
         padding: 1rem 4rem;
-        border: none;
         border-radius: 1rem;
         outline: none;
         width: 200%;
